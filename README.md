@@ -1,4 +1,4 @@
 csv_process
 ===========
 
-Use C++ to read the csv file 
+Use C++ to read the CSV file 
